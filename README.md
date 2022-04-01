@@ -1,6 +1,6 @@
 # Exploratory data analysis of IPL data
 
-##Introduction
+## Introduction
 Indian Premier League (IPL), Indian professional Twenty20 (T20) cricket league established in 2008. 
 The league, which is based on a round-robin group and knockout format, has teams in major Indian cities.
 The brainchild of the Board of Control for Cricket in India (BCCI), the IPL has developed into the most lucrative and most popular outlet for the game of cricket.
@@ -9,7 +9,7 @@ In late 2010 two franchises, Rajasthan and Punjab, were expelled from the league
 Two new franchises, the Pune Warriors India and the Kochi Tuskers Kerala, joined the IPL for the 2011 tournament. 
 The Kochi club played just one year before the BCCI terminated its contract. In 2013 the Deccan Chargers were replaced in the IPL by the Sunrisers Hyderabad.
 
-##Problem Statement
+## Problem Statement
 IPL is the top level of the cricket league system.
 It is contested by 8 to 10 teams, it operates on a system of promotion and relegation with the cricket League.
 They have accumulated the data of all the matches that has happened betweeen 2008-2017 inclusively.
